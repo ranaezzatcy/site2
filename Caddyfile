@@ -1,0 +1,7 @@
+{
+    auto_https off
+}
+
+:8080 {
+    respond "Site Render 2" 200
+}
